@@ -15,13 +15,16 @@ Java application to transfer files of any type using either TCP or RBUDP.
 - **Completed:** March 2025
 
 ## Directory Structure
+
+```
 .
-├── Makefile
-├── README.md
-└── src
-  ├── Main.java
-  ├── Receiver.java
-  └── Sender.java
+├── src/
+│   ├── Main.java        # starting point with JavaFX application with GUI
+│   ├── Receiver.java    # file receiving program 
+│   ├── Sender.java      # file sending program
+├── Makefile             # Build and execution automation
+└── README.md
+```
 
 ## Prerequisites
 
