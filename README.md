@@ -7,7 +7,7 @@ Java application to transfer files of any type using either TCP or RBUDP.
 - **Gideon Daniel Botha**
 - **Priyal Bhana**
 - **Sulaiman Bandarkar**
-- **Thaakir Fernandez** - thaakir07@gmail.com
+- **Thaakir Fernandez** (Group leader) - thaakir07@gmail.com
 
 ## Project Timeline
 
